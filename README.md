@@ -10,4 +10,4 @@ using GitHub Actions.
 - Uses GitHub Actions for automation
 
 ## Live Site
-https://<mishalbiju07>.github.io/gh-deployment-workflow/ 
+https://mishalbiju07.github.io/gh-deployment-workflow/
